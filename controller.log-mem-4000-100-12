@@ -1,0 +1,2128 @@
+Sat Aug 30 17:57:22 UTC 2014
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 41 MBUsed memory (-buffers -cache): 41 MB
+
+Used memory in (-buffers -cache) %: 16Used memory in (-buffers -cache) %: 16
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 16.00
+Memory load average: 16.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 4.65
+200.129.20.213 4.65
+Used memory (-buffers -cache): 53 MBUsed memory (-buffers -cache): 53 MB
+
+Used memory in (-buffers -cache) %: 21Used memory in (-buffers -cache) %: 21
+
+Number os running proccess apache2: 6
+
+
+Load average: 4.65
+Load average: 4.65
+Memory load average: 21.00
+Memory load average: 21.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 11.26
+200.129.20.213 11.26
+Used memory (-buffers -cache): 98 MBUsed memory (-buffers -cache): 98 MB
+
+Used memory in (-buffers -cache) %: 40Used memory in (-buffers -cache) %: 40
+
+Number os running proccess apache2: 21
+
+
+Load average: 11.26
+Load average: 11.26
+Memory load average: 40.00
+Memory load average: 40.00
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 19.55
+200.129.20.213 19.55
+Used memory (-buffers -cache): 145 MBUsed memory (-buffers -cache): 145 MB
+
+Used memory in (-buffers -cache) %: 59Used memory in (-buffers -cache) %: 59
+
+Number os running proccess apache2: 94
+
+
+Load average: 19.55
+Load average: 19.55
+Memory load average: 59.00
+Memory load average: 59.00
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 27.85
+200.129.20.213 27.85
+Used memory (-buffers -cache): 165 MBUsed memory (-buffers -cache): 165 MB
+
+Used memory in (-buffers -cache) %: 67Used memory in (-buffers -cache) %: 67
+
+Number os running proccess apache2: 133
+
+
+Load average: 27.85
+Load average: 27.85
+Memory load average: 67.00
+Memory load average: 67.00
+Starting a new instance at Sat Aug 30 17:57:43 UTC 2014 ...
+Starting a new instance at Sat Aug 30 17:57:43 UTC 2014 ...
+RESERVATION	r-9A7141CD	714129163556	default
+INSTANCE	i-86BB4130	emi-43033F07	0.0.0.0	0.0.0.0	pending	admin	0		m1.small	2014-08-30T20:57:45.860Z	CLUSTER01	eki-536A3827	eri-B01439E0		monitoring-disabled	0.0.0.0	0.0.0.0			instance-store					paravirtualized						
+Waiting 60s...
+Waiting 60s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-86BB4130
+i-AAC03CAB
+Instances list:
+i-86BB4130
+i-AAC03CAB
+Number of instances: 2
+Number of instances: 2
+200.129.20.211 1.18
+200.129.20.211 1.18
+Used memory (-buffers -cache): 42 MBUsed memory (-buffers -cache): 42 MB
+
+Used memory in (-buffers -cache) %: 17Used memory in (-buffers -cache) %: 17
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 99.15
+200.129.20.213 99.15
+Used memory (-buffers -cache): 127 MBUsed memory (-buffers -cache): 127 MB
+
+Used memory in (-buffers -cache) %: 52Used memory in (-buffers -cache) %: 52
+
+Number os running proccess apache2: 106
+
+
+Load average: 50.16
+Load average: 50.16
+Memory load average: 34.50
+Memory load average: 34.50
+Removing a instance at Sat Aug 30 17:58:52 UTC 2014 ...
+Removing a instance at Sat Aug 30 17:58:52 UTC 2014 ...
+INSTANCE	i-86BB4130	running	shutting-down
+Waiting 30s...
+Waiting 30s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 84.38
+200.129.20.213 84.38
+Used memory (-buffers -cache): 235 MBUsed memory (-buffers -cache): 235 MB
+
+Used memory in (-buffers -cache) %: 96Used memory in (-buffers -cache) %: 96
+
+Number os running proccess apache2: 100
+
+
+Load average: 84.38
+Load average: 84.38
+Memory load average: 96.00
+Memory load average: 96.00
+Starting a new instance at Sat Aug 30 17:59:29 UTC 2014 ...
+Starting a new instance at Sat Aug 30 17:59:29 UTC 2014 ...
+RESERVATION	r-11254153	714129163556	default
+INSTANCE	i-AE1E42EC	emi-43033F07	0.0.0.0	0.0.0.0	pending	admin	0		m1.small	2014-08-30T20:59:31.626Z	CLUSTER01	eki-536A3827	eri-B01439E0		monitoring-disabled	0.0.0.0	0.0.0.0			instance-store					paravirtualized						
+Waiting 60s...
+Waiting 60s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-AAC03CAB
+Number of instances: 2
+Number of instances: 2
+200.129.20.211 27.17
+200.129.20.211 27.17
+Used memory (-buffers -cache): 91 MBUsed memory (-buffers -cache): 91 MB
+
+Used memory in (-buffers -cache) %: 37Used memory in (-buffers -cache) %: 37
+
+Number os running proccess apache2: 13
+
+
+200.129.20.213 71.44
+200.129.20.213 71.44
+Used memory (-buffers -cache): 236 MBUsed memory (-buffers -cache): 236 MB
+
+Used memory in (-buffers -cache) %: 96Used memory in (-buffers -cache) %: 96
+
+Number os running proccess apache2: 100
+
+
+Load average: 49.30
+Load average: 49.30
+Memory load average: 66.50
+Memory load average: 66.50
+Starting a new instance at Sat Aug 30 18:00:39 UTC 2014 ...
+Starting a new instance at Sat Aug 30 18:00:39 UTC 2014 ...
+RESERVATION	r-5E6140E4	714129163556	default
+INSTANCE	i-95E63D76	emi-43033F07	0.0.0.0	0.0.0.0	pending	admin	0		m1.small	2014-08-30T21:00:42.615Z	CLUSTER01	eki-536A3827	eri-B01439E0		monitoring-disabled	0.0.0.0	0.0.0.0			instance-store					paravirtualized						
+Waiting 60s...
+Waiting 60s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-95E63D76
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-95E63D76
+i-AAC03CAB
+Number of instances: 3
+Number of instances: 3
+200.129.20.211 99.53
+200.129.20.211 99.53
+Used memory (-buffers -cache): 202 MBUsed memory (-buffers -cache): 202 MB
+
+Used memory in (-buffers -cache) %: 82Used memory in (-buffers -cache) %: 82
+
+Number os running proccess apache2: 21
+
+
+200.129.20.212 13.17
+200.129.20.212 13.17
+Used memory (-buffers -cache): 61 MBUsed memory (-buffers -cache): 61 MB
+
+Used memory in (-buffers -cache) %: 25Used memory in (-buffers -cache) %: 25
+
+Number os running proccess apache2: 9
+
+
+200.129.20.213 95.04
+200.129.20.213 95.04
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 89
+
+
+Load average: 69.24
+Load average: 69.24
+Memory load average: 68.00
+Memory load average: 68.00
+Starting a new instance at Sat Aug 30 18:01:51 UTC 2014 ...
+Starting a new instance at Sat Aug 30 18:01:51 UTC 2014 ...
+RESERVATION	r-89E540E9	714129163556	default
+INSTANCE	i-00324450	emi-43033F07	0.0.0.0	0.0.0.0	pending	admin	0		m1.small	2014-08-30T21:01:54.011Z	CLUSTER01	eki-536A3827	eri-B01439E0		monitoring-disabled	0.0.0.0	0.0.0.0			instance-store					paravirtualized						
+Waiting 60s...
+Waiting 60s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-00324450
+i-95E63D76
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-00324450
+i-95E63D76
+i-AAC03CAB
+Number of instances: 4
+Number of instances: 4
+200.129.20.211 75.55
+200.129.20.211 75.55
+Used memory (-buffers -cache): 116 MBUsed memory (-buffers -cache): 116 MB
+
+Used memory in (-buffers -cache) %: 47Used memory in (-buffers -cache) %: 47
+
+Number os running proccess apache2: 15
+
+
+200.129.20.215 12.74
+200.129.20.215 12.74
+Used memory (-buffers -cache): 70 MBUsed memory (-buffers -cache): 70 MB
+
+Used memory in (-buffers -cache) %: 28Used memory in (-buffers -cache) %: 28
+
+Number os running proccess apache2: 6
+
+
+200.129.20.212 69.85
+200.129.20.212 69.85
+Used memory (-buffers -cache): 118 MBUsed memory (-buffers -cache): 118 MB
+
+Used memory in (-buffers -cache) %: 48Used memory in (-buffers -cache) %: 48
+
+Number os running proccess apache2: 12
+
+
+200.129.20.213 65.37
+200.129.20.213 65.37
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 80
+
+
+Load average: 55.87
+Load average: 55.87
+Memory load average: 55.00
+Memory load average: 55.00
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-00324450
+i-95E63D76
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-00324450
+i-95E63D76
+i-AAC03CAB
+Number of instances: 4
+Number of instances: 4
+200.129.20.211 98.67
+200.129.20.211 98.67
+Used memory (-buffers -cache): 122 MBUsed memory (-buffers -cache): 122 MB
+
+Used memory in (-buffers -cache) %: 50Used memory in (-buffers -cache) %: 50
+
+Number os running proccess apache2: 23
+
+
+200.129.20.215 77.12
+200.129.20.215 77.12
+Used memory (-buffers -cache): 111 MBUsed memory (-buffers -cache): 111 MB
+
+Used memory in (-buffers -cache) %: 45Used memory in (-buffers -cache) %: 45
+
+Number os running proccess apache2: 15
+
+
+200.129.20.212 93.12
+200.129.20.212 93.12
+Used memory (-buffers -cache): 121 MBUsed memory (-buffers -cache): 121 MB
+
+Used memory in (-buffers -cache) %: 49Used memory in (-buffers -cache) %: 49
+
+Number os running proccess apache2: 16
+
+
+200.129.20.213 58.74
+200.129.20.213 58.74
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 77
+
+
+Load average: 81.91
+Load average: 81.91
+Memory load average: 60.25
+Memory load average: 60.25
+Starting a new instance at Sat Aug 30 18:04:22 UTC 2014 ...
+Starting a new instance at Sat Aug 30 18:04:22 UTC 2014 ...
+RESERVATION	r-E2594444	714129163556	default
+INSTANCE	i-9E38408F	emi-43033F07	0.0.0.0	0.0.0.0	pending	admin	0		m1.small	2014-08-30T21:04:24.651Z	CLUSTER01	eki-536A3827	eri-B01439E0		monitoring-disabled	0.0.0.0	0.0.0.0			instance-store					paravirtualized						
+Waiting 60s...
+Waiting 60s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 5
+Number of instances: 5
+200.129.20.211 98.47
+200.129.20.211 98.47
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 60
+
+
+200.129.20.215 99.07
+200.129.20.215 99.07
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 26
+
+
+200.129.20.212 99.37
+200.129.20.212 99.37
+Used memory (-buffers -cache): 170 MBUsed memory (-buffers -cache): 170 MB
+
+Used memory in (-buffers -cache) %: 69Used memory in (-buffers -cache) %: 69
+
+Number os running proccess apache2: 16
+
+
+200.129.20.216 17.49
+200.129.20.216 17.49
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 58.19
+200.129.20.213 58.19
+Used memory (-buffers -cache): 144 MBUsed memory (-buffers -cache): 144 MB
+
+Used memory in (-buffers -cache) %: 59Used memory in (-buffers -cache) %: 59
+
+Number os running proccess apache2: 13
+
+
+Load average: 74.51
+Load average: 74.51
+Memory load average: 71.60
+Memory load average: 71.60
+Starting a new instance at Sat Aug 30 18:05:34 UTC 2014 ...
+Starting a new instance at Sat Aug 30 18:05:34 UTC 2014 ...
+RESERVATION	r-924D4187	714129163556	default
+INSTANCE	i-C02C41DF	emi-43033F07	0.0.0.0	0.0.0.0	pending	admin	0		m1.small	2014-08-30T21:05:37.262Z	CLUSTER01	eki-536A3827	eri-B01439E0		monitoring-disabled	0.0.0.0	0.0.0.0			instance-store					paravirtualized						
+Waiting 60s...
+Waiting 60s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 97.77
+200.129.20.211 97.77
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 75
+
+
+200.129.20.217 14.44
+200.129.20.217 14.44
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 97.32
+200.129.20.215 97.32
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 29
+
+
+200.129.20.212 91.73
+200.129.20.212 91.73
+Used memory (-buffers -cache): 70 MBUsed memory (-buffers -cache): 70 MB
+
+Used memory in (-buffers -cache) %: 28Used memory in (-buffers -cache) %: 28
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 94.49
+200.129.20.216 94.49
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 91.88
+200.129.20.213 91.88
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 6
+
+
+Load average: 81.27
+Load average: 81.27
+Memory load average: 53.66
+Memory load average: 53.66
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 97.68
+200.129.20.211 97.68
+Used memory (-buffers -cache): 236 MBUsed memory (-buffers -cache): 236 MB
+
+Used memory in (-buffers -cache) %: 96Used memory in (-buffers -cache) %: 96
+
+Number os running proccess apache2: 78
+
+
+200.129.20.217 30.32
+200.129.20.217 30.32
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 97.43
+200.129.20.215 97.43
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 29
+
+
+200.129.20.212 89.87
+200.129.20.212 89.87
+Used memory (-buffers -cache): 70 MBUsed memory (-buffers -cache): 70 MB
+
+Used memory in (-buffers -cache) %: 28Used memory in (-buffers -cache) %: 28
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 93.12
+200.129.20.216 93.12
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 90.37
+200.129.20.213 90.37
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 6
+
+
+Load average: 83.13
+Load average: 83.13
+Memory load average: 53.66
+Memory load average: 53.66
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 97.64
+200.129.20.211 97.64
+Used memory (-buffers -cache): 236 MBUsed memory (-buffers -cache): 236 MB
+
+Used memory in (-buffers -cache) %: 96Used memory in (-buffers -cache) %: 96
+
+Number os running proccess apache2: 78
+
+
+200.129.20.217 41.89
+200.129.20.217 41.89
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 97.23
+200.129.20.215 97.23
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 27
+
+
+200.129.20.212 88.69
+200.129.20.212 88.69
+Used memory (-buffers -cache): 70 MBUsed memory (-buffers -cache): 70 MB
+
+Used memory in (-buffers -cache) %: 28Used memory in (-buffers -cache) %: 28
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 92.03
+200.129.20.216 92.03
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 90.28
+200.129.20.213 90.28
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 6
+
+
+Load average: 84.62
+Load average: 84.62
+Memory load average: 53.66
+Memory load average: 53.66
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 97.43
+200.129.20.211 97.43
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 79
+
+
+200.129.20.217 51.43
+200.129.20.217 51.43
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 97.30
+200.129.20.215 97.30
+Used memory (-buffers -cache): 222 MBUsed memory (-buffers -cache): 222 MB
+
+Used memory in (-buffers -cache) %: 90Used memory in (-buffers -cache) %: 90
+
+Number os running proccess apache2: 26
+
+
+200.129.20.212 89.29
+200.129.20.212 89.29
+Used memory (-buffers -cache): 71 MBUsed memory (-buffers -cache): 71 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 91.15
+200.129.20.216 91.15
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 89.55
+200.129.20.213 89.55
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 6
+
+
+Load average: 86.02
+Load average: 86.02
+Memory load average: 52.83
+Memory load average: 52.83
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 97.22
+200.129.20.211 97.22
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 82
+
+
+200.129.20.217 65.75
+200.129.20.217 65.75
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 97.55
+200.129.20.215 97.55
+Used memory (-buffers -cache): 230 MBUsed memory (-buffers -cache): 230 MB
+
+Used memory in (-buffers -cache) %: 94Used memory in (-buffers -cache) %: 94
+
+Number os running proccess apache2: 23
+
+
+200.129.20.212 89.57
+200.129.20.212 89.57
+Used memory (-buffers -cache): 71 MBUsed memory (-buffers -cache): 71 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 91.89
+200.129.20.216 91.89
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 90.40
+200.129.20.213 90.40
+Used memory (-buffers -cache): 73 MBUsed memory (-buffers -cache): 73 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+Load average: 88.73
+Load average: 88.73
+Memory load average: 53.33
+Memory load average: 53.33
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 94.64
+200.129.20.211 94.64
+Used memory (-buffers -cache): 231 MBUsed memory (-buffers -cache): 231 MB
+
+Used memory in (-buffers -cache) %: 94Used memory in (-buffers -cache) %: 94
+
+Number os running proccess apache2: 84
+
+
+200.129.20.217 79.52
+200.129.20.217 79.52
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 97.80
+200.129.20.215 97.80
+Used memory (-buffers -cache): 208 MBUsed memory (-buffers -cache): 208 MB
+
+Used memory in (-buffers -cache) %: 85Used memory in (-buffers -cache) %: 85
+
+Number os running proccess apache2: 20
+
+
+200.129.20.212 90.85
+200.129.20.212 90.85
+Used memory (-buffers -cache): 71 MBUsed memory (-buffers -cache): 71 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 93.33
+200.129.20.216 93.33
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 91.30
+200.129.20.213 91.30
+Used memory (-buffers -cache): 73 MBUsed memory (-buffers -cache): 73 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+Load average: 91.24
+Load average: 91.24
+Memory load average: 51.33
+Memory load average: 51.33
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 94.45
+200.129.20.211 94.45
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 87
+
+
+200.129.20.217 92.80
+200.129.20.217 92.80
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 98.11
+200.129.20.215 98.11
+Used memory (-buffers -cache): 190 MBUsed memory (-buffers -cache): 190 MB
+
+Used memory in (-buffers -cache) %: 77Used memory in (-buffers -cache) %: 77
+
+Number os running proccess apache2: 18
+
+
+200.129.20.212 92.30
+200.129.20.212 92.30
+Used memory (-buffers -cache): 71 MBUsed memory (-buffers -cache): 71 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 94.13
+200.129.20.216 94.13
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 92.38
+200.129.20.213 92.38
+Used memory (-buffers -cache): 73 MBUsed memory (-buffers -cache): 73 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+Load average: 94.02
+Load average: 94.02
+Memory load average: 50.66
+Memory load average: 50.66
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 92.55
+200.129.20.211 92.55
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 91
+
+
+200.129.20.217 91.56
+200.129.20.217 91.56
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 98.50
+200.129.20.215 98.50
+Used memory (-buffers -cache): 140 MBUsed memory (-buffers -cache): 140 MB
+
+Used memory in (-buffers -cache) %: 57Used memory in (-buffers -cache) %: 57
+
+Number os running proccess apache2: 14
+
+
+200.129.20.212 91.17
+200.129.20.212 91.17
+Used memory (-buffers -cache): 72 MBUsed memory (-buffers -cache): 72 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 92.71
+200.129.20.216 92.71
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 91.87
+200.129.20.213 91.87
+Used memory (-buffers -cache): 73 MBUsed memory (-buffers -cache): 73 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+Load average: 93.06
+Load average: 93.06
+Memory load average: 47.33
+Memory load average: 47.33
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 90.64
+200.129.20.211 90.64
+Used memory (-buffers -cache): 238 MBUsed memory (-buffers -cache): 238 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 97
+
+
+200.129.20.217 85.61
+200.129.20.217 85.61
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 91.94
+200.129.20.215 91.94
+Used memory (-buffers -cache): 70 MBUsed memory (-buffers -cache): 70 MB
+
+Used memory in (-buffers -cache) %: 28Used memory in (-buffers -cache) %: 28
+
+Number os running proccess apache2: 6
+
+
+200.129.20.212 84.29
+200.129.20.212 84.29
+Used memory (-buffers -cache): 72 MBUsed memory (-buffers -cache): 72 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 85.24
+200.129.20.216 85.24
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 84.23
+200.129.20.213 84.23
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 6
+
+
+Load average: 86.99
+Load average: 86.99
+Memory load average: 42.50
+Memory load average: 42.50
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 88.41
+200.129.20.211 88.41
+Used memory (-buffers -cache): 239 MBUsed memory (-buffers -cache): 239 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 98
+
+
+200.129.20.217 86.19
+200.129.20.217 86.19
+Used memory (-buffers -cache): 99 MBUsed memory (-buffers -cache): 99 MB
+
+Used memory in (-buffers -cache) %: 40Used memory in (-buffers -cache) %: 40
+
+Number os running proccess apache2: 10
+
+
+200.129.20.215 91.95
+200.129.20.215 91.95
+Used memory (-buffers -cache): 83 MBUsed memory (-buffers -cache): 83 MB
+
+Used memory in (-buffers -cache) %: 34Used memory in (-buffers -cache) %: 34
+
+Number os running proccess apache2: 10
+
+
+200.129.20.212 85.74
+200.129.20.212 85.74
+Used memory (-buffers -cache): 82 MBUsed memory (-buffers -cache): 82 MB
+
+Used memory in (-buffers -cache) %: 33Used memory in (-buffers -cache) %: 33
+
+Number os running proccess apache2: 8
+
+
+200.129.20.216 86.56
+200.129.20.216 86.56
+Used memory (-buffers -cache): 98 MBUsed memory (-buffers -cache): 98 MB
+
+Used memory in (-buffers -cache) %: 40Used memory in (-buffers -cache) %: 40
+
+Number os running proccess apache2: 9
+
+
+200.129.20.213 85.95
+200.129.20.213 85.95
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 6
+
+
+Load average: 87.46
+Load average: 87.46
+Memory load average: 45.66
+Memory load average: 45.66
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 87.70
+200.129.20.211 87.70
+Used memory (-buffers -cache): 239 MBUsed memory (-buffers -cache): 239 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 96
+
+
+200.129.20.217 87.58
+200.129.20.217 87.58
+Used memory (-buffers -cache): 126 MBUsed memory (-buffers -cache): 126 MB
+
+Used memory in (-buffers -cache) %: 51Used memory in (-buffers -cache) %: 51
+
+Number os running proccess apache2: 10
+
+
+200.129.20.215 92.04
+200.129.20.215 92.04
+Used memory (-buffers -cache): 113 MBUsed memory (-buffers -cache): 113 MB
+
+Used memory in (-buffers -cache) %: 46Used memory in (-buffers -cache) %: 46
+
+Number os running proccess apache2: 13
+
+
+200.129.20.212 87.19
+200.129.20.212 87.19
+Used memory (-buffers -cache): 92 MBUsed memory (-buffers -cache): 92 MB
+
+Used memory in (-buffers -cache) %: 37Used memory in (-buffers -cache) %: 37
+
+Number os running proccess apache2: 9
+
+
+200.129.20.216 87.54
+200.129.20.216 87.54
+Used memory (-buffers -cache): 128 MBUsed memory (-buffers -cache): 128 MB
+
+Used memory in (-buffers -cache) %: 52Used memory in (-buffers -cache) %: 52
+
+Number os running proccess apache2: 13
+
+
+200.129.20.213 87.20
+200.129.20.213 87.20
+Used memory (-buffers -cache): 74 MBUsed memory (-buffers -cache): 74 MB
+
+Used memory in (-buffers -cache) %: 30Used memory in (-buffers -cache) %: 30
+
+Number os running proccess apache2: 7
+
+
+Load average: 88.20
+Load average: 88.20
+Memory load average: 52.16
+Memory load average: 52.16
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 73.04
+200.129.20.211 73.04
+Used memory (-buffers -cache): 237 MBUsed memory (-buffers -cache): 237 MB
+
+Used memory in (-buffers -cache) %: 97Used memory in (-buffers -cache) %: 97
+
+Number os running proccess apache2: 81
+
+
+200.129.20.217 76.32
+200.129.20.217 76.32
+Used memory (-buffers -cache): 86 MBUsed memory (-buffers -cache): 86 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 80.92
+200.129.20.215 80.92
+Used memory (-buffers -cache): 71 MBUsed memory (-buffers -cache): 71 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.212 73.87
+200.129.20.212 73.87
+Used memory (-buffers -cache): 63 MBUsed memory (-buffers -cache): 63 MB
+
+Used memory in (-buffers -cache) %: 25Used memory in (-buffers -cache) %: 25
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 75.56
+200.129.20.216 75.56
+Used memory (-buffers -cache): 86 MBUsed memory (-buffers -cache): 86 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 71.42
+200.129.20.213 71.42
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 75.18
+Load average: 75.18
+Memory load average: 41.16
+Memory load average: 41.16
+
+#####################################################
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-AE1E42EC
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 6
+Number of instances: 6
+200.129.20.211 68.03
+200.129.20.211 68.03
+Used memory (-buffers -cache): 211 MBUsed memory (-buffers -cache): 211 MB
+
+Used memory in (-buffers -cache) %: 86Used memory in (-buffers -cache) %: 86
+
+Number os running proccess apache2: 74
+
+
+200.129.20.217 64.58
+200.129.20.217 64.58
+Used memory (-buffers -cache): 86 MBUsed memory (-buffers -cache): 86 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 67.65
+200.129.20.215 67.65
+Used memory (-buffers -cache): 71 MBUsed memory (-buffers -cache): 71 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.212 62.72
+200.129.20.212 62.72
+Used memory (-buffers -cache): 63 MBUsed memory (-buffers -cache): 63 MB
+
+Used memory in (-buffers -cache) %: 25Used memory in (-buffers -cache) %: 25
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 63.72
+200.129.20.216 63.72
+Used memory (-buffers -cache): 86 MBUsed memory (-buffers -cache): 86 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 60.21
+200.129.20.213 60.21
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 64.48
+Load average: 64.48
+Memory load average: 39.33
+Memory load average: 39.33
+Removing a instance at Sat Aug 30 18:08:56 UTC 2014 ...
+Removing a instance at Sat Aug 30 18:08:56 UTC 2014 ...
+INSTANCE	i-AE1E42EC	running	shutting-down
+Waiting 30s...
+Waiting 30s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-C02C41DF
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 5
+Number of instances: 5
+200.129.20.217 3.88
+200.129.20.217 3.88
+Used memory (-buffers -cache): 88 MBUsed memory (-buffers -cache): 88 MB
+
+Used memory in (-buffers -cache) %: 36Used memory in (-buffers -cache) %: 36
+
+Number os running proccess apache2: 6
+
+
+200.129.20.215 5.57
+200.129.20.215 5.57
+Used memory (-buffers -cache): 73 MBUsed memory (-buffers -cache): 73 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.212 2.32
+200.129.20.212 2.32
+Used memory (-buffers -cache): 64 MBUsed memory (-buffers -cache): 64 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 2.92
+200.129.20.216 2.92
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 0.03
+200.129.20.213 0.03
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: 2.94
+Load average: 2.94
+Memory load average: 30.60
+Memory load average: 30.60
+Removing a instance at Sat Aug 30 18:09:38 UTC 2014 ...
+Removing a instance at Sat Aug 30 18:09:38 UTC 2014 ...
+INSTANCE	i-C02C41DF	running	shutting-down
+Waiting 30s...
+Waiting 30s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-00324450
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 4
+Number of instances: 4
+200.129.20.215 0.02
+200.129.20.215 0.02
+Used memory (-buffers -cache): 73 MBUsed memory (-buffers -cache): 73 MB
+
+Used memory in (-buffers -cache) %: 29Used memory in (-buffers -cache) %: 29
+
+Number os running proccess apache2: 6
+
+
+200.129.20.212 0.02
+200.129.20.212 0.02
+Used memory (-buffers -cache): 64 MBUsed memory (-buffers -cache): 64 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 0.00
+200.129.20.216 0.00
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .01
+Load average: .01
+Memory load average: 29.25
+Memory load average: 29.25
+Removing a instance at Sat Aug 30 18:10:19 UTC 2014 ...
+Removing a instance at Sat Aug 30 18:10:19 UTC 2014 ...
+INSTANCE	i-00324450	running	shutting-down
+Waiting 30s...
+Waiting 30s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-95E63D76
+i-9E38408F
+i-AAC03CAB
+Number of instances: 3
+Number of instances: 3
+200.129.20.212 0.00
+200.129.20.212 0.00
+Used memory (-buffers -cache): 64 MBUsed memory (-buffers -cache): 64 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+200.129.20.216 0.00
+200.129.20.216 0.00
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 29.33
+Memory load average: 29.33
+Removing a instance at Sat Aug 30 18:10:58 UTC 2014 ...
+Removing a instance at Sat Aug 30 18:10:58 UTC 2014 ...
+INSTANCE	i-95E63D76	running	shutting-down
+Waiting 30s...
+Waiting 30s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-9E38408F
+i-AAC03CAB
+Instances list:
+i-9E38408F
+i-AAC03CAB
+Number of instances: 2
+Number of instances: 2
+200.129.20.216 0.02
+200.129.20.216 0.02
+Used memory (-buffers -cache): 87 MBUsed memory (-buffers -cache): 87 MB
+
+Used memory in (-buffers -cache) %: 35Used memory in (-buffers -cache) %: 35
+
+Number os running proccess apache2: 6
+
+
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .01
+Load average: .01
+Memory load average: 31.00
+Memory load average: 31.00
+Removing a instance at Sat Aug 30 18:11:51 UTC 2014 ...
+Removing a instance at Sat Aug 30 18:11:51 UTC 2014 ...
+INSTANCE	i-9E38408F	running	shutting-down
+Waiting 30s...
+Waiting 30s...
+Reloading nginx configuration: nginx.
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 66 MBUsed memory (-buffers -cache): 66 MB
+
+Used memory in (-buffers -cache) %: 27Used memory in (-buffers -cache) %: 27
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 27.00
+Memory load average: 27.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.00
+200.129.20.213 0.00
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: 0
+Load average: 0
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1
+200.129.20.213 0.02
+200.129.20.213 0.02
+Used memory (-buffers -cache): 65 MBUsed memory (-buffers -cache): 65 MB
+
+Used memory in (-buffers -cache) %: 26Used memory in (-buffers -cache) %: 26
+
+Number os running proccess apache2: 6
+
+
+Load average: .02
+Load average: .02
+Memory load average: 26.00
+Memory load average: 26.00
+Error: Minumum instances number reached.
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-AAC03CAB
+Instances list:
+i-AAC03CAB
+Number of instances: 1
+Number of instances: 1

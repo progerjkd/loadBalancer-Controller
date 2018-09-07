@@ -1,0 +1,722 @@
+Start time: Mon Aug 25 11:46:07 UTC 2014
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .85
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 9.07
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: 9.07
+Memory load average: 34.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 15.58
+Used memory (-buffers -cache): 125 MB
+Used memory in (-buffers -cache) %: 51
+
+Load average: 15.58
+Memory load average: 51.00
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 23.68
+Used memory (-buffers -cache): 163 MB
+Used memory in (-buffers -cache) %: 66
+
+Load average: 23.68
+Memory load average: 66.00
+Starting a new instance at Mon Aug 25 11:46:23 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-698F4476
+i-A88A3EFA
+Number of instances: 2
+200.129.20.212 7.74
+Used memory (-buffers -cache): 44 MB
+Used memory in (-buffers -cache) %: 18
+
+200.129.20.211 97.44
+Used memory (-buffers -cache): 118 MB
+Used memory in (-buffers -cache) %: 48
+
+Load average: 52.59
+Memory load average: 33.00
+Removing a instance at Mon Aug 25 11:47:32 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 85.24
+Used memory (-buffers -cache): 238 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 85.24
+Memory load average: 97.00
+Starting a new instance at Mon Aug 25 11:48:20 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 2
+200.129.20.212 11.90
+Used memory (-buffers -cache): 60 MB
+Used memory in (-buffers -cache) %: 24
+
+200.129.20.211 68.26
+Used memory (-buffers -cache): 234 MB
+Used memory in (-buffers -cache) %: 95
+
+Load average: 40.08
+Memory load average: 59.50
+
+#####################################################
+Instances list:
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 2
+200.129.20.212 24.31
+Used memory (-buffers -cache): 104 MB
+Used memory in (-buffers -cache) %: 42
+
+200.129.20.211 67.57
+Used memory (-buffers -cache): 235 MB
+Used memory in (-buffers -cache) %: 96
+
+Load average: 45.94
+Memory load average: 69.00
+Starting a new instance at Mon Aug 25 11:49:57 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 2
+200.129.20.212 29.10
+Used memory (-buffers -cache): 85 MB
+Used memory in (-buffers -cache) %: 34
+
+200.129.20.211 63.70
+Used memory (-buffers -cache): 239 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 46.40
+Memory load average: 65.50
+Starting a new instance at Mon Aug 25 11:52:10 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-63E2464B
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 3
+200.129.20.213 5.30
+Used memory (-buffers -cache): 52 MB
+Used memory in (-buffers -cache) %: 21
+
+200.129.20.212 98.76
+Used memory (-buffers -cache): 209 MB
+Used memory in (-buffers -cache) %: 85
+
+200.129.20.211 42.10
+Used memory (-buffers -cache): 239 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 48.72
+Memory load average: 67.66
+Starting a new instance at Mon Aug 25 11:53:30 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-63E2464B
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 4
+200.129.20.213 81.83
+Used memory (-buffers -cache): 150 MB
+Used memory in (-buffers -cache) %: 61
+
+200.129.20.215 11.11
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.212 93.76
+Used memory (-buffers -cache): 204 MB
+Used memory in (-buffers -cache) %: 83
+
+200.129.20.211 45.97
+Used memory (-buffers -cache): 235 MB
+Used memory in (-buffers -cache) %: 96
+
+Load average: 58.16
+Memory load average: 67.75
+Starting a new instance at Mon Aug 25 11:54:55 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 5
+200.129.20.216 6.25
+Used memory (-buffers -cache): 69 MB
+Used memory in (-buffers -cache) %: 28
+
+200.129.20.213 70.35
+Used memory (-buffers -cache): 133 MB
+Used memory in (-buffers -cache) %: 54
+
+200.129.20.215 69.07
+Used memory (-buffers -cache): 126 MB
+Used memory in (-buffers -cache) %: 51
+
+200.129.20.212 72.65
+Used memory (-buffers -cache): 141 MB
+Used memory in (-buffers -cache) %: 57
+
+200.129.20.211 49.38
+Used memory (-buffers -cache): 237 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 53.54
+Memory load average: 57.40
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 6
+200.129.20.216 40.25
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.213 87.22
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+200.129.20.217 10.74
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 87.28
+Used memory (-buffers -cache): 86 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.212 88.60
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.211 45.62
+Used memory (-buffers -cache): 234 MB
+Used memory in (-buffers -cache) %: 95
+
+Load average: 59.95
+Memory load average: 40.83
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 6
+200.129.20.216 45.10
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.213 80.32
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+200.129.20.217 5.34
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 77.68
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.212 77.99
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.211 44.17
+Used memory (-buffers -cache): 239 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 55.10
+Memory load average: 41.00
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 6
+200.129.20.216 48.23
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.213 63.35
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+200.129.20.217 3.36
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 61.02
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.212 59.61
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.211 42.88
+Used memory (-buffers -cache): 239 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 46.40
+Memory load average: 41.00
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 6
+200.129.20.216 54.29
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.213 55.23
+Used memory (-buffers -cache): 113 MB
+Used memory in (-buffers -cache) %: 46
+
+200.129.20.217 1.90
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 57.72
+Used memory (-buffers -cache): 97 MB
+Used memory in (-buffers -cache) %: 39
+
+200.129.20.212 59.96
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+200.129.20.211 39.53
+Used memory (-buffers -cache): 236 MB
+Used memory in (-buffers -cache) %: 96
+
+Load average: 44.77
+Memory load average: 44.33
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-A88A3EFA
+Number of instances: 6
+200.129.20.216 96.63
+Used memory (-buffers -cache): 156 MB
+Used memory in (-buffers -cache) %: 63
+
+200.129.20.213 98.42
+Used memory (-buffers -cache): 154 MB
+Used memory in (-buffers -cache) %: 63
+
+200.129.20.217 0.03
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 98.98
+Used memory (-buffers -cache): 186 MB
+Used memory in (-buffers -cache) %: 76
+
+200.129.20.212 99.32
+Used memory (-buffers -cache): 134 MB
+Used memory in (-buffers -cache) %: 54
+
+200.129.20.211 36.89
+Used memory (-buffers -cache): 237 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 71.71
+Memory load average: 61.50
+Starting a new instance at Mon Aug 25 11:58:14 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-977444ED
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 7
+200.129.20.216 98.81
+Used memory (-buffers -cache): 203 MB
+Used memory in (-buffers -cache) %: 83
+
+200.129.20.213 98.36
+Used memory (-buffers -cache): 236 MB
+Used memory in (-buffers -cache) %: 96
+
+200.129.20.217 8.39
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.215 97.98
+Used memory (-buffers -cache): 197 MB
+Used memory in (-buffers -cache) %: 80
+
+200.129.20.212 98.69
+Used memory (-buffers -cache): 204 MB
+Used memory in (-buffers -cache) %: 83
+
+200.129.20.218 21.12
+Used memory (-buffers -cache): 89 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 58.34
+Used memory (-buffers -cache): 95 MB
+Used memory in (-buffers -cache) %: 38
+
+Load average: 68.81
+Memory load average: 64.57
+Starting a new instance at Mon Aug 25 11:59:35 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-977444ED
+i-09424048
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 8
+200.129.20.216 41.38
+Used memory (-buffers -cache): 73 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.219 1.28
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.213 39.17
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 34.73
+Used memory (-buffers -cache): 86 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.215 47.31
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 38.75
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.218 32.44
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 33.11
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: 33.52
+Memory load average: 29.00
+Removing a instance at Mon Aug 25 12:00:51 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-09424048
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 7
+200.129.20.219 0.02
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.213 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.00
+Used memory (-buffers -cache): 86 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.215 0.05
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.218 0.00
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 0.93
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .14
+Memory load average: 29.00
+Removing a instance at Mon Aug 25 12:01:36 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-63E2464B
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 6
+200.129.20.213 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.02
+Used memory (-buffers -cache): 86 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.215 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.218 0.00
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 0.80
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .13
+Memory load average: 31.16
+Removing a instance at Mon Aug 25 12:02:19 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-B0C4450A
+i-8DFE4287
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 5
+200.129.20.217 0.02
+Used memory (-buffers -cache): 86 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.215 0.02
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.03
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.218 0.00
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 0.73
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .16
+Memory load average: 31.60
+Removing a instance at Mon Aug 25 12:03:16 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-8DFE4287
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 4
+200.129.20.215 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.02
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.218 0.00
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 0.73
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .18
+Memory load average: 30.75
+Removing a instance at Mon Aug 25 12:03:56 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-DCCF43C0
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 3
+200.129.20.212 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.218 0.00
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 0.72
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .24
+Memory load average: 31.33
+Removing a instance at Mon Aug 25 12:04:36 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-68CD40ED
+i-A88A3EFA
+Number of instances: 2
+200.129.20.218 0.00
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.211 0.72
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .36
+Memory load average: 32.50
+Removing a instance at Mon Aug 25 12:05:14 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.73
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .73
+Memory load average: 34.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.73
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .73
+Memory load average: 34.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.78
+Used memory (-buffers -cache): 83 MB
+Used memory in (-buffers -cache) %: 34
+
+Load average: .78
+Memory load average: 34.00
+Error: Minumum instances number reached.

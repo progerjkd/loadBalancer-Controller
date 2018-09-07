@@ -1,0 +1,1379 @@
+Start time: Mon Aug 25 11:24:33 UTC 2014
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.80
+Used memory (-buffers -cache): 39 MB
+Used memory in (-buffers -cache) %: 15
+
+Load average: .80
+Memory load average: 15.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 40 MB
+Used memory in (-buffers -cache) %: 16
+
+Load average: .83
+Memory load average: 16.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 7.02
+Used memory (-buffers -cache): 53 MB
+Used memory in (-buffers -cache) %: 21
+
+Load average: 7.02
+Memory load average: 21.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 15.16
+Used memory (-buffers -cache): 108 MB
+Used memory in (-buffers -cache) %: 44
+
+Load average: 15.16
+Memory load average: 44.00
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 23.32
+Used memory (-buffers -cache): 123 MB
+Used memory in (-buffers -cache) %: 50
+
+Load average: 23.32
+Memory load average: 50.00
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 31.37
+Used memory (-buffers -cache): 120 MB
+Used memory in (-buffers -cache) %: 49
+
+Load average: 31.37
+Memory load average: 49.00
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 39.56
+Used memory (-buffers -cache): 120 MB
+Used memory in (-buffers -cache) %: 49
+
+Load average: 39.56
+Memory load average: 49.00
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 47.72
+Used memory (-buffers -cache): 118 MB
+Used memory in (-buffers -cache) %: 48
+
+Load average: 47.72
+Memory load average: 48.00
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 55.84
+Used memory (-buffers -cache): 156 MB
+Used memory in (-buffers -cache) %: 63
+
+Load average: 55.84
+Memory load average: 63.00
+Starting a new instance at Mon Aug 25 11:25:14 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-6FD3454B
+i-A88A3EFA
+Number of instances: 2
+200.129.20.212 4.78
+Used memory (-buffers -cache): 42 MB
+Used memory in (-buffers -cache) %: 17
+
+200.129.20.211 77.04
+Used memory (-buffers -cache): 239 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 40.91
+Memory load average: 57.00
+
+#####################################################
+Instances list:
+i-6FD3454B
+i-A88A3EFA
+Number of instances: 2
+200.129.20.212 50.78
+Used memory (-buffers -cache): 119 MB
+Used memory in (-buffers -cache) %: 48
+
+200.129.20.211 73.14
+Used memory (-buffers -cache): 239 MB
+Used memory in (-buffers -cache) %: 97
+
+Load average: 61.96
+Memory load average: 72.50
+Starting a new instance at Mon Aug 25 11:27:04 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-A37C47BB
+i-6FD3454B
+i-A88A3EFA
+Number of instances: 3
+200.129.20.213 10.89
+Used memory (-buffers -cache): 51 MB
+Used memory in (-buffers -cache) %: 20
+
+200.129.20.212 98.43
+Used memory (-buffers -cache): 238 MB
+Used memory in (-buffers -cache) %: 97
+
+200.129.20.211 55.28
+Used memory (-buffers -cache): 224 MB
+Used memory in (-buffers -cache) %: 91
+
+Load average: 54.86
+Memory load average: 69.33
+Starting a new instance at Mon Aug 25 11:28:15 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A88A3EFA
+Number of instances: 4
+200.129.20.215 12.49
+Used memory (-buffers -cache): 60 MB
+Used memory in (-buffers -cache) %: 24
+
+200.129.20.213 93.91
+Used memory (-buffers -cache): 97 MB
+Used memory in (-buffers -cache) %: 39
+
+200.129.20.212 95.92
+Used memory (-buffers -cache): 237 MB
+Used memory in (-buffers -cache) %: 97
+
+200.129.20.211 98.44
+Used memory (-buffers -cache): 227 MB
+Used memory in (-buffers -cache) %: 93
+
+Load average: 75.19
+Memory load average: 63.25
+Starting a new instance at Mon Aug 25 11:29:26 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-A88A3EFA
+Number of instances: 5
+200.129.20.215 91.04
+Used memory (-buffers -cache): 120 MB
+Used memory in (-buffers -cache) %: 49
+
+200.129.20.213 92.32
+Used memory (-buffers -cache): 119 MB
+Used memory in (-buffers -cache) %: 48
+
+200.129.20.212 87.04
+Used memory (-buffers -cache): 238 MB
+Used memory in (-buffers -cache) %: 97
+
+200.129.20.216 36.53
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.211 95.53
+Used memory (-buffers -cache): 148 MB
+Used memory in (-buffers -cache) %: 60
+
+Load average: 80.49
+Memory load average: 57.80
+
+#####################################################
+Instances list:
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-A88A3EFA
+Number of instances: 5
+200.129.20.215 93.10
+Used memory (-buffers -cache): 134 MB
+Used memory in (-buffers -cache) %: 54
+
+200.129.20.213 93.70
+Used memory (-buffers -cache): 116 MB
+Used memory in (-buffers -cache) %: 47
+
+200.129.20.212 76.50
+Used memory (-buffers -cache): 236 MB
+Used memory in (-buffers -cache) %: 96
+
+200.129.20.216 45.41
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 95.47
+Used memory (-buffers -cache): 154 MB
+Used memory in (-buffers -cache) %: 63
+
+Load average: 80.83
+Memory load average: 59.20
+
+#####################################################
+Instances list:
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-A88A3EFA
+Number of instances: 5
+200.129.20.215 94.66
+Used memory (-buffers -cache): 140 MB
+Used memory in (-buffers -cache) %: 57
+
+200.129.20.213 95.73
+Used memory (-buffers -cache): 120 MB
+Used memory in (-buffers -cache) %: 49
+
+200.129.20.212 74.41
+Used memory (-buffers -cache): 237 MB
+Used memory in (-buffers -cache) %: 97
+
+200.129.20.216 59.42
+Used memory (-buffers -cache): 94 MB
+Used memory in (-buffers -cache) %: 38
+
+200.129.20.211 95.57
+Used memory (-buffers -cache): 160 MB
+Used memory in (-buffers -cache) %: 65
+
+Load average: 83.95
+Memory load average: 61.20
+Starting a new instance at Mon Aug 25 11:31:13 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 6
+200.129.20.215 98.25
+Used memory (-buffers -cache): 238 MB
+Used memory in (-buffers -cache) %: 97
+
+200.129.20.213 99.30
+Used memory (-buffers -cache): 210 MB
+Used memory in (-buffers -cache) %: 86
+
+200.129.20.212 89.18
+Used memory (-buffers -cache): 194 MB
+Used memory in (-buffers -cache) %: 79
+
+200.129.20.216 99.32
+Used memory (-buffers -cache): 219 MB
+Used memory in (-buffers -cache) %: 89
+
+200.129.20.217 21.87
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.211 96.15
+Used memory (-buffers -cache): 232 MB
+Used memory in (-buffers -cache) %: 95
+
+Load average: 84.01
+Memory load average: 80.16
+Starting a new instance at Mon Aug 25 11:32:29 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-D74F4049
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 7
+200.129.20.218 16.30
+Used memory (-buffers -cache): 78 MB
+Used memory in (-buffers -cache) %: 31
+
+200.129.20.215 97.61
+Used memory (-buffers -cache): 228 MB
+Used memory in (-buffers -cache) %: 93
+
+200.129.20.213 99.83
+Used memory (-buffers -cache): 102 MB
+Used memory in (-buffers -cache) %: 41
+
+200.129.20.212 99.77
+Used memory (-buffers -cache): 119 MB
+Used memory in (-buffers -cache) %: 48
+
+200.129.20.216 99.83
+Used memory (-buffers -cache): 171 MB
+Used memory in (-buffers -cache) %: 70
+
+200.129.20.217 99.85
+Used memory (-buffers -cache): 107 MB
+Used memory in (-buffers -cache) %: 43
+
+200.129.20.211 96.26
+Used memory (-buffers -cache): 236 MB
+Used memory in (-buffers -cache) %: 96
+
+Load average: 87.06
+Memory load average: 60.28
+Starting a new instance at Mon Aug 25 11:33:45 UTC 2014 ...
+Waiting 60s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-D74F4049
+i-75F9414A
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 8
+200.129.20.218 22.84
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.219 1.89
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 32.03
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.213 17.48
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 17.18
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+200.129.20.216 19.52
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 15.48
+Used memory (-buffers -cache): 87 MB
+Used memory in (-buffers -cache) %: 35
+
+200.129.20.211 33.30
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: 19.96
+Memory load average: 29.75
+Removing a instance at Mon Aug 25 11:35:01 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-75F9414A
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 7
+200.129.20.219 0.02
+Used memory (-buffers -cache): 41 MB
+Used memory in (-buffers -cache) %: 16
+
+200.129.20.215 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.213 0.00
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.02
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+200.129.20.216 0.02
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.00
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .13
+Memory load average: 29.00
+Removing a instance at Mon Aug 25 11:35:46 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-7D7C468F
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 6
+200.129.20.215 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.213 0.03
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.00
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+200.129.20.216 0.00
+Used memory (-buffers -cache): 71 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.02
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 0.90
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .15
+Memory load average: 31.16
+Removing a instance at Mon Aug 25 11:36:29 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-A37C47BB
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 5
+200.129.20.213 0.00
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.212 0.02
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+200.129.20.216 0.00
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.02
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 0.83
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .17
+Memory load average: 31.60
+Removing a instance at Mon Aug 25 11:37:10 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-6FD3454B
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 4
+200.129.20.212 0.02
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+200.129.20.216 0.02
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.00
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 0.88
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .23
+Memory load average: 32.25
+Removing a instance at Mon Aug 25 11:37:51 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-A0863FF2
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 3
+200.129.20.216 0.02
+Used memory (-buffers -cache): 72 MB
+Used memory in (-buffers -cache) %: 29
+
+200.129.20.217 0.00
+Used memory (-buffers -cache): 88 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 0.82
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .28
+Memory load average: 32.33
+Removing a instance at Mon Aug 25 11:38:30 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-D19F40E5
+i-A88A3EFA
+Number of instances: 2
+200.129.20.217 0.03
+Used memory (-buffers -cache): 89 MB
+Used memory in (-buffers -cache) %: 36
+
+200.129.20.211 0.87
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .45
+Memory load average: 34.50
+Removing a instance at Mon Aug 25 11:39:08 UTC 2014 ...
+Waiting 30s...
+Reconfiguring Nginx...
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .85
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .83
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.88
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .88
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.92
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .92
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 82 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .83
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .85
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .83
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .87
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.82
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .82
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .83
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .85
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .85
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.90
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .90
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.90
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .90
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.90
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .90
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .87
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.88
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .88
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .83
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .85
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 81 MB
+Used memory in (-buffers -cache) %: 33
+
+Load average: .83
+Memory load average: 33.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.88
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .88
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.88
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .88
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.90
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .90
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.88
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .88
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .85
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.82
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .82
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.77
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .77
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .83
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.80
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .80
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .83
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.82
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .82
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.77
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .77
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.75
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .75
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.73
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .73
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.72
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .72
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.67
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .67
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.72
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .72
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.73
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .73
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.78
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .78
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.82
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .82
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.80
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .80
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.80
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .80
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.78
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .78
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.80
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .80
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.82
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .82
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.82
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .82
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .85
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .85
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 79 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .85
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .85
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.83
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .83
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.88
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .88
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.85
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .85
+Memory load average: 32.00
+Error: Minumum instances number reached.
+
+#####################################################
+Instances list:
+i-A88A3EFA
+Number of instances: 1
+200.129.20.211 0.87
+Used memory (-buffers -cache): 80 MB
+Used memory in (-buffers -cache) %: 32
+
+Load average: .87
+Memory load average: 32.00
+Error: Minumum instances number reached.
